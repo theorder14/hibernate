@@ -11,3 +11,5 @@ Which other technologies are similar to Hibernate? Are there any better options 
 
 
 Which other technologies are Hibernate dependent of (or using)? Do you need to know  more then Hibernate?
+Hibernate ger stöd till de flesta RDBMS som står för relational database management system. Här är några databaser som stöds av Hibernate.
+HSQL Database Engine, DB2/NT, MySQL, PostgreSQL, FrontBase, Oracle, Microsoft SQL, Server Database Sybase, SQL Server Informix
